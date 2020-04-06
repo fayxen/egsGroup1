@@ -1,3 +1,14 @@
+
+.Titre {
+	background-color: #010101;
+	color: pink;
+	text-align: center;
+}
+
+.Soustitre {
+	color: purple;
+}
+
 // Variables
 $red: #ad0000;
 $lightBlack: #333;
@@ -237,3 +248,4 @@ footer a {
   &:hover {color: $lightBlack;}
 }
 .copy {font-size: .85em;}
+
