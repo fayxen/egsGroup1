@@ -1,4 +1,13 @@
 
+h1 {
+	color: orange;
+}
+
+body {
+  background-color: purple;
+}
+
+
 .Titre {
 	background-color: #010101;
 	color: pink;
@@ -248,4 +257,5 @@ footer a {
   &:hover {color: $lightBlack;}
 }
 .copy {font-size: .85em;}
+
 
